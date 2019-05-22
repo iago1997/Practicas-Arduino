@@ -19,7 +19,7 @@ Necesitarás añadir los siguientes componentes:
 
 <img src="imagenes_readme/ledRojo.jpg" alt="drawing" width="200px"/>
 
-    Una protoboard (investiga cómo funcionan las placas protoboards)
+    Una protoboard 
 
  <p>La Protoboard es una placa de pruebas en los que se pueden insertar elementos electrónicos y cables con los que se arman circuitos sin la necesidad de soldar ninguno de los componentes</p>
 
