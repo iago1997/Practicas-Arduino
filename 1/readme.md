@@ -36,7 +36,7 @@ La  __Práctica1__ consiste en encender y apagar un led.
     <p>Esto se hará de la siguiente forma:</p>
 
 - Cojemos un arduino, un led de color, una placa de pruebas(protoboard) y entre dos o tres cables machos.
-- Conectamos tre extremos de los cables al arduino y los otros tres extremos a la placa de pruebas donde se encuentra el led. (No es necesario conectarlo justo donde está el led, puedes ponerlo en la linea vertical donde pusiste el led )
+- Conectamos tres extremos de los cables al arduino y los otros tres extremos a la placa de pruebas donde se encuentra el led. (No es necesario conectarlo justo donde está el led, puedes ponerlo en la linea vertical donde pusiste este )
 - Introducimos el código para hacer lo que nos pide el ejercicio. (Dependiendo el lugar donde pusieramos los cables el código puede variar)
   
 - Iniciamos simulación.
@@ -51,14 +51,14 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
             [Aquí](https://www.arduino.cc/en/Main/Software) tienes disponible la página donde puedes descargarlo.  
       
 
-    2. Una vez descargada la aplicaiom de arduino, descargaremos los drivers necesarios.  
+    2. Una vez descargado el programa de arduino, descargaremos los drivers necesarios.  
             <span style="color:red"> __WARNIG__ </span> No todos los arduinos utilizan los mismos drivers ,dependiendo de que arduino utilices cambiará el driver.  
             [Aquí](https://youtu.be/LIWn59qNbRk) te dejo un link a un vídeo donde te explica como instalar driver para un arduino Nano.
         > Nota:  
              Este paso solo lo tendremos que realizar una única vez.   
          
 
-    3. Abrimos el programa. Comprobamos que el puerto este conectado al adecuado, la placa que esté seleccionada en el arduino que estamos utiliando, y lo mismo con el procesador.
+    3. Abrimos el programa. Comprobamos que el puerto este conectado al adecuado, la placa que esté seleccionada en el arduino que estamos utilizando, y lo mismo con el procesador.
     4. Conectamos el arduino al PC. Ponemos el codigo en el programa y le damos a "Subir".
     
 <span style='color:green'>COMPLETADO</span>
