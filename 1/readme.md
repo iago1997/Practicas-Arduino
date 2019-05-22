@@ -5,7 +5,7 @@ Esta web te permitirá simular de forma online tus proyectos.
 
 - 2- Crea el siguiente esquema 
 
-<img src="imagenes_readme/ejercicio.jpg" alt="drawing" width="400px"/>
+<img src="imagenes_readme/Ejercicio.jpg" alt="drawing" width="400px"/>
 
 Necesitarás añadir los siguientes componentes: 
 
@@ -65,5 +65,5 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
 
 <div align="center">
 
-<img src="circuitoReal1.jpg" alt="drawing" width="600px" /></div>
+<img src="CircuitoReal1.jpg" alt="drawing" width="600px" /></div>
 
