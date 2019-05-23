@@ -62,6 +62,6 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
   - Que las luces se apaguen y enciendan cada vez más rápido.  
     - Para modificar la velocidad tendremos que cambiar el número de "ms" en la función delay(ms) , donde ms es la cantidad de tiempo a esperar entre cada cambio de led.
   - Que las luces enciendan y apaguen todas la vez. (parpadeando cada 1 segundo) 
-    - Pincha [Aquí](https://github.com/iago1997/Practicas-Arduino/blob/master/2/practica_2b.io/practica_2b.io.ino) para ver el código.
+    - Pincha [aquí](https://github.com/iago1997/Practicas-Arduino/blob/master/2/practica_2b.io/practica_2b.io.ino) para ver el código.
   - Que se enciendan las luces 1 y 3 y luego se paguen. Se encienda la luz 2 y luego se apague. Y así en un bucle infinito.
     - 
