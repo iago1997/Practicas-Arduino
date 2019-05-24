@@ -2,7 +2,7 @@
 
 - 1- Crea el siguiente esquema 
 
-<img src="../imagenes_readme/CircuitoEjercicio.jpg" alt="drawing" width="400px"/>
+<img src="CircuitoEjercicio.jpg" alt="drawing" width="400px"/>
 
 Necesitarás añadir los siguientes componentes: 
 
