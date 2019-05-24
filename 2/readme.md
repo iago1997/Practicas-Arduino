@@ -2,7 +2,7 @@
 
 - 1- Crea el siguiente esquema 
 
-<img src="imagenes_readme/CircuitoEjercicio.jpg" alt="drawing" width="400px"/>
+<img src="../imagenes_readme/CircuitoEjercicio.jpg" alt="drawing" width="400px"/>
 
 Necesitarás añadir los siguientes componentes: 
 
@@ -14,17 +14,17 @@ Necesitarás añadir los siguientes componentes:
 
       
 
-<img src="imagenes_readme/ledRojo.jpg" alt="drawing" width="200px"/>
+<img src="../imagenes_readme/ledRojo.jpg" alt="drawing" width="200px"/>
 
     Una protoboard (investiga cómo funcionan las placas protoboards)
 
  <p>La Protoboard es una placa de pruebas en los que se pueden insertar elementos electrónicos y cables con los que se arman circuitos sin la necesidad de soldar ninguno de los componentes</p>
 
-<img src="imagenes_readme/protoboard.jpg" alt="drawing" width="200px"/>
+<img src="../imagenes_readme/protoboard.jpg" alt="drawing" width="200px"/>
 
     Una placa Arduino (por ejemplo la R3)
 
-<img src="imagenes_readme/arduino.jpg" alt="drawing" width="200px"/>
+<img src="../imagenes_readme/arduino.jpg" alt="drawing" width="200px"/>
 
 
 ## Resumen 
