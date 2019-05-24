@@ -14,9 +14,9 @@ void loop() {
   for(int i=11; i<=13 ;i++){
     digitalWrite( i , HIGH) ;
   }
-  delay(100);
+  delay(1000);
   for(int i=11; i<=13 ;i++){
     digitalWrite( i , LOW) ;
   }
-  delay(100);
+  delay(1000);
 }
