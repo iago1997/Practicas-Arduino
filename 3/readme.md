@@ -60,7 +60,7 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
 
 </div>
 
-<p>Pincha [aquí](https://github.com/iago1997/Practicas-Arduino/blob/master/3/VideoPactica3.mp4) para ir al vídeo. </p>
+<p>Pincha (aquí)[https://github.com/iago1997/Practicas-Arduino/blob/master/3/VideoPactica3.mp4] para ir al vídeo. </p>
 
 
   
