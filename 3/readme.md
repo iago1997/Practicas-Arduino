@@ -1,4 +1,4 @@
-<div align="center">
+
     
 # Práctica 3: Encender y apagar 4 leds de forma consecutiva con sonido.
 
@@ -15,9 +15,9 @@ Necesitarás añadir los siguientes componentes:
            La patilla “menos” larga es la negativa 
 
       
-
+<div align="center">
 <img src="../imagenes_readme/ledRojo.jpg" alt="drawing" width="200px"/>
-
+</div>
     Un Buzzer
 
  <p> es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo)</p>
