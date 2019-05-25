@@ -3,9 +3,9 @@
 # Práctica 3: Encender y apagar 4 leds de forma consecutiva con sonido.
 
 - 1- Crea el siguiente esquema 
-
+<div align="center">
 <img src="ImagenEjercicio.PNG" alt="drawing" width="400px"/>
-
+</div>
 Necesitarás añadir los siguientes componentes: 
 
     > 4 ledes (luz de colores)
