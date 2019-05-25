@@ -2,7 +2,7 @@
     
 # Práctica 3: Encender y apagar 4 leds de forma consecutiva con sonido.
 
-- 1- Crea el siguiente esquema 
+- Crea el siguiente esquema 
 <div align="center">
 <img src="ImagenEjercicio.PNG" alt="drawing" width="400px"/>
 </div>
@@ -60,6 +60,7 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
 
 </div>
 
+<p>Pincha [aquí]() para ver el vídeo. </p>
 
 
   
