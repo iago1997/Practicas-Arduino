@@ -1,3 +1,5 @@
+<div align="center">
+    
 # Práctica 3: Encender y apagar 4 leds de forma consecutiva con sonido.
 
 - 1- Crea el siguiente esquema 
