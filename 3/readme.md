@@ -57,6 +57,7 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
     
 <span style='color:green'>COMPLETADO</span>
 
+
 <div align="center">
 
 <img src="ArduinoRealPractica3.jpg" alt="drawing" width="600px" />
