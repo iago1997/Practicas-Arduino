@@ -4,7 +4,7 @@
 
 - 1- Crea el siguiente esquema 
 
-<img src="ImagenEjercicio.png" alt="drawing" width="400px"/>
+<img src="ImagenEjercicio.PNG" alt="drawing" width="400px"/>
 
 Necesitarás añadir los siguientes componentes: 
 
@@ -21,13 +21,13 @@ Necesitarás añadir los siguientes componentes:
     Un Buzzer
 
  <p> es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo)</p>
-<center>
+<div align="center">
 <img src="../imagenes_readme/buzzer.jpg" alt="drawing" width="200px"/>
-</center>
+</div>
     Una placa Arduino (por ejemplo la R3)
-
+<div align="center">
 <img src="../imagenes_readme/arduino.jpg" alt="drawing" width="200px"/>
-
+</div>
 
 ## Resumen 
 La  __Práctica3__ consiste en encender y apagar 4 leds de forma consecutiva con sonido.
