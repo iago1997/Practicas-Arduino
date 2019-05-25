@@ -1,6 +1,4 @@
-
-    
-# Práctica 3: Encender y apagar 4 leds de forma consecutiva con sonido.
+   # Práctica 3: Encender y apagar 4 leds de forma consecutiva con sonido.
 
 - Crea el siguiente esquema 
 <div align="center">
@@ -19,16 +17,20 @@ Necesitarás añadir los siguientes componentes:
 
       
 <div align="center">
-<img src="../imagenes_readme/ledRojo.jpg" alt="drawing" width="200px"/>
-</div>
-   > Un Buzzer
-    <p> es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo)        </p>  
+  <img src="../imagenes_readme/ledRojo.jpg" alt="drawing" width="200px"/>
+</div>  
+
+    > Un Buzzer
+     Es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo)         
+
 <div align="center">
-<img src="../imagenes_readme/buzzer.jpg" alt="drawing" width="200px"/>
-</div>
-   > Una placa Arduino (por ejemplo la R3)
+  <img src="../imagenes_readme/buzzer.jpg" alt="drawing" width="200px"/>
+</div>  
+
+    > Una placa Arduino (por ejemplo la R3)
+
 <div align="center">
-<img src="../imagenes_readme/arduino.jpg" alt="drawing" width="200px"/>
+  <img src="../imagenes_readme/arduino.jpg" alt="drawing" width="200px"/>
 </div>
 
 ## Resumen 
@@ -62,6 +64,5 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
 </div>
 
 Pincha [aquí](https://github.com/iago1997/Practicas-Arduino/blob/master/3/VideoPactica3.mp4) para ir al vídeo.
-
 
   
