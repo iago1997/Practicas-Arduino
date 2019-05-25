@@ -55,7 +55,7 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
     1. Abrimos el programa. Comprobamos que el puerto este conectado al adecuado, la placa que esté seleccionada en el arduino que estamos utiliando, y lo mismo con el procesador.
     2. Conectamos el arduino al PC. Ponemos el codigo en el programa y le damos a "Subir".
     
-<span style='color:green'>COMPLETADO</span>
+<span style='color:green'>COMPLETADO: </span>
 
 
 <div align="center">
