@@ -62,7 +62,8 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
 
    <img src="ArduinoRealPractica3.jpg" alt="drawing" width="600px" />
 
-</div>
+</div>  
+<hr>
 
 Pincha [aquí](https://github.com/iago1997/Practicas-Arduino/blob/master/3/VideoPactica3.mp4) para ir al vídeo.
 
