@@ -21,13 +21,12 @@ Necesitarás añadir los siguientes componentes:
 <div align="center">
 <img src="../imagenes_readme/ledRojo.jpg" alt="drawing" width="200px"/>
 </div>
-    Un Buzzer
-
- <p> es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo)</p>
+   > Un Buzzer
+    <p> es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo)        </p>  
 <div align="center">
 <img src="../imagenes_readme/buzzer.jpg" alt="drawing" width="200px"/>
 </div>
-    Una placa Arduino (por ejemplo la R3)
+   > Una placa Arduino (por ejemplo la R3)
 <div align="center">
 <img src="../imagenes_readme/arduino.jpg" alt="drawing" width="200px"/>
 </div>
