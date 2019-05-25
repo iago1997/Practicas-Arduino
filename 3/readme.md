@@ -7,7 +7,9 @@
 <img src="ImagenEjercicio.PNG" alt="drawing" width="400px"/>
 </div>
 <hr>
-Necesitarás añadir los siguientes componentes: 
+Necesitarás añadir los siguientes componentes:  
+
+
 
     > 4 ledes (luz de colores)
 
