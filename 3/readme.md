@@ -2,7 +2,7 @@
 
 - 1- Crea el siguiente esquema 
 
-<img src="imagenEjercicio.png" alt="drawing" width="400px"/>
+<img src="ImagenEjercicio.png" alt="drawing" width="400px"/>
 
 Necesitarás añadir los siguientes componentes: 
 
@@ -19,9 +19,9 @@ Necesitarás añadir los siguientes componentes:
     Un Buzzer
 
  <p> es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo)</p>
-
+<center>
 <img src="../imagenes_readme/buzzer.jpg" alt="drawing" width="200px"/>
-
+</center>
     Una placa Arduino (por ejemplo la R3)
 
 <img src="../imagenes_readme/arduino.jpg" alt="drawing" width="200px"/>
