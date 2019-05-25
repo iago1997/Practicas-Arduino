@@ -60,7 +60,7 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
 
 <div align="center">
 
-<img src="ArduinoRealPractica3.jpg" alt="drawing" width="600px" />
+   <img src="ArduinoRealPractica3.jpg" alt="drawing" width="600px" />
 
 </div>
 
