@@ -47,7 +47,7 @@ _a)_ Como en los anteriores ejercicios realizamos primero el esquema del circuit
   - Las conexiones dependerán del tipo de servomotor con Arduino que estemos utilizando.
   - Todos deben tener 3 cables. Uno irá a tierra, otro a la alimentación de 5 Voltios y el tercero a un pin PWM.
   - EL pulsador tambien debe estar conectado por tres cables conectados a tierra, a la alimentación de 5 Voltios y      a un pin PWM.    
-- Introducimos el [código](CodigoPractica4) para hacer lo que nos pide el ejercicio. (Dependiendo del lugar donde pusieramos los cables el código puede variar)
+- Introducimos el [código](https://github.com/iago1997/Practicas-Arduino/blob/master/5/practica_5/practica_5.ino) para hacer lo que nos pide el ejercicio. (Dependiendo del lugar donde pusieramos los cables el código puede variar)
   
 - Iniciamos simulación.
     - En el caso de que ocurra un error habría que revisar el código o ver si tenemos mal conectado algun cable en el circuito.
