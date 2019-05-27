@@ -58,7 +58,7 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
 
 <div align="center">
 
-<img src="CircuitoReal4.jpg" alt="drawing" width="600px" />
+<img src="CircuitoReal4.1.jpg" alt="drawing" width="600px" />
 
 </div>
 
