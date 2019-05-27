@@ -37,7 +37,7 @@ La  __Práctica1__ consiste en encender y apagar un led.
 
 - Cojemos un arduino, un led de color, una placa de pruebas(protoboard) y entre dos o tres cables machos.
 - Conectamos  los cables al arduino y  a la placa de pruebas donde se encuentra el led. (No es necesario conectarlo justo donde está el led, puedes ponerlo en la linea vertical donde pusiste este )
-- Introducimos el [código](https://github.com/iago1997/Practicas-Arduino/blob/master/1/practica_1/practica_1.ino)para hacer lo que nos pide el ejercicio. (Dependiendo el lugar donde pusieramos los cables el código puede variar)
+- Introducimos el [código](https://github.com/iago1997/Practicas-Arduino/blob/master/1/practica_1/practica_1.ino) para hacer lo que nos pide el ejercicio. (Dependiendo el lugar donde pusieramos los cables el código puede variar)
   
 - Iniciamos simulación.
     - En el caso de que ocurra un error habría que revisar el código o ver si tenemos mal conectado algun cable en el circuito.
