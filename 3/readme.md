@@ -36,7 +36,7 @@ Necesitarás añadir los siguientes componentes:
 ## Resumen 
 La  __Práctica3__ consiste en encender y apagar 4 leds de forma consecutiva con sonido.
 
-    _a)_ Como en los anteriores ejercicios realizamos primero el esquema del circuito en Tinkercad.
+   _a)_ Como en los anteriores ejercicios realizamos primero el esquema del circuito en Tinkercad.
     <p>Esto se hará de la siguiente forma:</p>
 
 - Cojemos el material que necesitamos; un arduino, cuatro ledes de color, una placa de pruebas(opcional), un buzzer y  varios cables hembras y machos.
