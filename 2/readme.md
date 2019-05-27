@@ -34,7 +34,7 @@ La  __Práctica2__ consiste en encender y apagar 3 leds de forma consecutiva
 
 - Cojemos el material que necesitamos; un arduino, tres ledes de color, una placa de pruebas(protoboard) y  tres cables machos.
 - Montamos el circuito
-- Introducimos el código para hacer lo que nos pide el ejercicio. (Dependiendo el lugar donde pusieramos los cables el código puede variar)
+- Introducimos el (código)[https://github.com/iago1997/Practicas-Arduino/blob/master/2/practica_2b.io/practica_2.io.ino] para hacer lo que nos pide el ejercicio. (Dependiendo el lugar donde pusieramos los cables el código puede variar)
   
 - Iniciamos simulación.
     - En el caso de que ocurra un error habría que revisar el código o ver si tenemos mal conectado algun cable en el circuito.
