@@ -62,4 +62,4 @@ _b)_ Si todo va bien pasaremos a probarlo en una placa real.
 
 </div>
 
-Pincha [aquí]() para ir al vídeo.
+Pincha [aquí](https://github.com/iago1997/Practicas-Arduino/blob/master/4/videoPractica4a.mp4) para ir al vídeo.
