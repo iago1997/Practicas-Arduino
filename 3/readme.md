@@ -41,7 +41,7 @@ La  __Práctica3__ consiste en encender y apagar 4 leds de forma consecutiva con
 
 - Cojemos el material que necesitamos; un arduino, cuatro ledes de color, una placa de pruebas(opcional), un buzzer y  varios cables hembras y machos.
 - Montamos el circuito. Es lo mismo que el anterior ejercicio pero añadiendole un buzzer.
-- Introducimos el código para hacer lo que nos pide el ejercicio. (Dependiendo el lugar donde pusieramos los cables el código puede variar)
+- Introducimos el [código](https://github.com/iago1997/Practicas-Arduino/blob/master/3/practica_3/practica_3.ino) para hacer lo que nos pide el ejercicio. (Dependiendo el lugar donde pusieramos los cables el código puede variar)
   
 - Iniciamos simulación.
     - En el caso de que ocurra un error habría que revisar el código o ver si tenemos mal conectado algun cable en el circuito.
