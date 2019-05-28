@@ -41,7 +41,7 @@ _a)_ Como en los anteriores ejercicios realizamos primero el esquema del circuit
 - Cojemos el material que necesitamos; un arduino, un sensor de distancia, una placa de pruebas(opcional) y varios cables hembras y machos.
 - Montamos el circuito:
    
-- Introducimos el [código](CodigoPractica4) para hacer lo que nos pide el ejercicio. (Dependiendo del lugar donde pusieramos los cables el código puede variar)
+- Introducimos el [código](https://github.com/iago1997/Practicas-Arduino/blob/master/6/practica_codigo6/practica_codigo6.ino) para hacer lo que nos pide el ejercicio. (Dependiendo del lugar donde pusieramos los cables el código puede variar)
   
 - Iniciamos simulación.
     - En el caso de que ocurra un error habría que revisar el código o ver si tenemos mal conectado algun cable en el circuito.
